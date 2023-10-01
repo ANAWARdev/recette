@@ -1,0 +1,34 @@
+html {
+    maw-width:1000px;
+    margin: 0 auto;
+}
+ body {
+    max-width: 1000px;
+    margin: 0 auto;
+ }
+
+ main {
+    display: block;
+    justify-content: center;
+    align-items: center;
+ }
+
+ div {
+    margin: 20px;
+ }
+
+ img {
+    height: 300px;
+    width: 300px;
+   
+ }
+ section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ }
+
+ a {
+    font-size: 20px;
+ }
