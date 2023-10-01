@@ -1,9 +1,9 @@
 html {
     max-width: 1000px;
-    margin: 0 auto;}
-    
-body{
-    background-image: url(images/istockphoto-1313187927-612x612.jpg);
-    background-size: cover;
+    margin: 0 auto;
+    background-image: url('images/istockphoto-1313187927-612x612.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
 }
+
 
